@@ -1,4 +1,2 @@
 locations:
   - location_name: anil-dagster-test
-    code_source:
-      package_name: dagster-cloud
